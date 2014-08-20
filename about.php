@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>About - California Elder Justice Coalition (CEJC)</title>
+	<?php require_once 'include/head.php'; ?>
+	<script>window.onload=function() {document.getElementById("a_about").className="active";}</script>
+</head>
+<body>
+	<div id="page-container">
+	<div id="header">	<?php include_once 'include/banner.php'; ?> </div>
+		<div id="main-nav"><?php include 'include/main-nav.php'; ?></div>
+		<div id="sidebar-a" class="about shaded">
+	  	<blockquote>An informed public is key to elder abuse prevention. ”</blockquote>
+		</div>
+		<div id="content" class="content_steering">
+			<div class="column1 about">
+			<h2>About the California Elder Justice Coalition</h2>
+			<p>The<strong> California Elder Justice Coalition </strong>was created in 2008 to address systemic barriers to elder justice.  In 2010, the group hosted the first state elder justice summit, which brought together 92 experts to explore challenges and solutions.  Recommendations that emerged from the summit as well as focus groups, interviews, and an environmental scan, culminated in  <a href="./cms/pdf/Blueprint2011-729-1914.pdf" target="_blank"><em>Improving California's Response to Elder Abuse, Neglect, and Exploitation:  A Blueprint.</em></a></p>
+			</div>
+
+			<div class='column1 shaded'>
+			<h4>CEJC's accomplishments include:</h4>
+				<ul>
+					<li>Co-sponsored, in partnership with the California Commission on Aging,  <em>From Practice to Policy Elder Justice Policy Summit</em> (September, 2013) with the participation of the California Welfare Directors Association, the California Association of Area Agencies on Aging, and the California Ombudsman Association</li>
+					<li>Sponsored the first statewide elder justice summit in 2010, which culminated in <em>Improving California’s Response to Elder Abuse, Neglect, and Exploitation: A Blueprint</em>. To view click <a href="./cms/pdf/Blueprint2011-729-1914.pdf" target="_blank">here</a></li>
+					<li>Participated in the first White House Symposium on Elder Justice</li>
+					<li>Participated on the Elder Justice Work Group for California Attorney General Kamala Harris' <em>Smart on Crime</em> Transition Team</li>
+					<li>Spearheaded the development, testing, and dissemination of a protocol to assist communities improve their response to elder abuse reports</li>
+					<li>Convened committee to improve access to victim compensation and assistance by victims of elder financial abuse and exploitation</li>
+					<li>Featured in articles in <em>Generations</em>, the <em>Journal of Elder Abuse &amp; Neglect</em>, and <em>Victimization of the Elderly and Disabled</em></li>
+					<li>Conducted workshops at conferences of the <em>Gerontology Society of America</em>, the <em>American Society on Aging</em>, and the <em>National Adult Protective Services Association</em></li>
+				</ul>
+			</div>
+			<div class="column2">
+			<h4>Our Core Values</h4>
+				<ul>
+					<li>Living free from abuse, neglect, and exploitation is a fundamental right ensured through public policy, access to the legal system, a robust response to abuse, and services that support independence and autonomy.</li>
+					<li>Self-determination and autonomy are primary considerations in policy and practice affecting older adults.</li>
+					<li>We respect and value diversity and the unique perspectives of the many organizations and disciplines that promote elder justice. Sharing outlooks and resources enriches our field and increases our effectiveness. </li>
+					<li>Policy and practice must be based on accurate and non-partisan information to ensure quality and efficiency.</li>
+					<li>Broad based participation in policy development by service providers, advocates, educators, students, and researchers is vital to reflect California’s rich diversity and strong traditions of innovation and social justice.</li>
+				</ul>
+			</div>
+		</div>
+		<div id="footer"><?php include 'include/footer.php' ?>	</div>
+	</div>
+</body>
+</html>

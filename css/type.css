@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Rosario';
+  src: url('../fonts/Rosario-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Rosario';
+  font-style:italic;
+  src: url('../fonts/Rosario-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Rosario';
+  font-weight:bold;
+  src: url('../fonts/Rosario-Bold.ttf') format('truetype');
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rockstarapps>
+    
+
+<file name="css/master.css">
+        <min>true</min>
+        <comp>false</comp>
+        <closureCompiler>false</closureCompiler>
+        <gZip>false</gZip>
+        <resolveImports>true</resolveImports>
+        <urlRewriting>true</urlRewriting>
+        <autoBuild>true</autoBuild>
+        <lineLength>-1</lineLength>
+        <autoTimestamps>false</autoTimestamps>
+        <removeLogs>true</removeLogs>
+        <oldFileNames>false</oldFileNames>
+        <dependencies>
+            <file>css/master.css</file>
+        </dependencies>
+        <properties/>
+    </file>
+</rockstarapps>
