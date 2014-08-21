@@ -21,6 +21,7 @@
 			<h2>News &amp; Updates</h2>
 			<p>CEJC’s bimonthly newsletter provides the latest on CEJC activities; local, state, national, and international developments in elder justice; new research, reports, and resources; and special features. Download past News &amp; Updates by clicking on the links below.</p>
 			<ul id='ul_news_links'>
+				<div class='1 shaded'><li class='1'><a href="http://hosted.verticalresponse.com/583565/e0d06131f5/289470253/9c196eddf2/" target="new">August - September 2014 </a></li></div>
 				<div class='0'><li class='0'><a href="http://hosted.verticalresponse.com/583565/3d41ecf180/289470253/9c196eddf2/" target="new">June - July 2014 </a></li></div>
 				<div class='1 shaded'><li class='1'><a href="http://hosted.verticalresponse.com/583565/4d86d05849/TEST/TEST/" target="new">April - May 2014 </a></li></div>
 				<div class='0'><li class='0'><a href="./cms/pdf/newsandupdates201402201403.pdf" target="new">February - March 2014 </a></li></div>

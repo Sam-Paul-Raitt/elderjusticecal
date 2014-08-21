@@ -1,0 +1,6 @@
+# Ignore a bunch of hidden files
+/.rockstarapps
+/.project
+/.DS_Store
+
+

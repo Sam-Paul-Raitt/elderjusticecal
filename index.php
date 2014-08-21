@@ -44,20 +44,22 @@
 				<p>To join, click <a href="./join.php">here</a></p>
 			</div>
 			<div class="cols shaded">
-				<h4>NEWS &amp; UPDATES - June / July 2014</h4>
+				<h4>NEWS &amp; UPDATES - August / September 2014</h4>
 				<div class='ruler'></div>
-				<p>The June / July issue of <em>News &amp; Updates</em> includes the following:</p>
+				<p>The August / September issue of <em>News &amp; Updates</em> includes the following:</p>
 				<ul>
-					<li>CEJC and IOA Host Financial Roundtable</li> 
-					<li>Senate Select Committee Prioritizes Elder Justice</li> 
-					<li>Phase II of Legal Access Project Begins</li> 
-					<li>San Diego DA Takes on RCFE Abuse</li> 
-					<li>CA Advocates Host WEAAD Events</li>
-					<li>On-Line Course: Justice Responses to Elder Abuse</li> 
-					<li>Ageism and Elder Justice Podcast</li> 
-					<li>New R2P Report on Everyday Decision-making</li> 
+					<li>APS Leadership Position Funded</li>
+					<li>San Mateo Grand Jury Finds County Lacking </li>
+					<li>Senate Select Committee Hearing</li>
+					<li>Lawsuit Filed to Stop Cal MediConnect</li>
+					<li>Elder Justice Roadmap Released</li>
+					<li>Guardianship Replication Guide </li>
+					<li>Helping LGBT Residents of Long Term Care Facilities</li>
+					<li>Free Online Training For Lawyers</li>
+					<li>Survey Identifies AAAs’ Role in Elder Abuse</li>
+					<li>Preventing Financial Abuse in LTC Facilities</li>
 				</ul>
-				<p>And much more! To view the edition, click <a href="http://hosted.verticalresponse.com/583565/3d41ecf180/289470253/9c196eddf2/" target="new">here</a></p>
+				<p>And much more! To view the edition, click <a href="http://hosted.verticalresponse.com/583565/e0d06131f5/289470253/9c196eddf2/" target="new">here</a></p>
 
 			</div>
 		</div>
