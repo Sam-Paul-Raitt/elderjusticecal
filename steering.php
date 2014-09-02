@@ -21,7 +21,7 @@
 			<div class="tile"><p><strong>Lori Delagrammatikas </strong> 
 				is Program Manager for the Multidisciplinary Adult Services Training for Evaluation and Results Academy for Professional Excellence at San Diego State University, past Vice President of the National Committee for the Prevention of Elder Abuse and current chair of their Education Committee. She works with national, state, and local experts to develop core APS competency trainings.</p></div>
 			<div class="tile white"><p><strong>Jill Nielsen </strong>
-				is the Adult Protective Services (APS) Program Director for the City and County of San Francisco’s Department of Aging and Adult Services. She co-chairs the Protective Services Operations Committee of the California County Welfare Directors Association. Jill previously worked as an APS Worker and she is a Licensed Clinical Social Worker.</p></div>
+				is the Adult Protective Services (APS) Program Director for the City and County of San Francisco’s Department of Aging and Adult Services. Jill previously worked as an APS Worker and she is a Licensed Clinical Social Worker.</p></div>
 			<div class="tile"><p><strong>Shawna Reeves </strong> 
 				is Director of Elder Abuse Prevention at the Institute on Aging. Her areas of expertise include predatory lending, investment scams, reverse mortgages, and working with traditional and alternative media to raise public awareness of elder abuse.</p></div>
 			<div class="tile white"><p><strong>Mary Twomey </strong>
