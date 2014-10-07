@@ -32,9 +32,6 @@ a {
     color: #336557;
     color: #003f2d; }
 
-.radiused {
-  border-radius: 5px; }
-
 h2 {
   margin-bottom: 15px; }
 
@@ -76,19 +73,19 @@ p {
 
 .nav {
   height: 30px;
-  background-color: #030; }
+  background-color: #003300; }
   .nav li {
     float: left;
     list-style-type: none; }
     .nav li a {
-      background-color: #030;
+      background-color: #003300;
       font-size: 16px;
-      color: #fff;
+      color: white;
       display: block;
       line-height: 30px;
       padding: 0 30px;
       text-decoration: none;
-      border-right: 1px solid #fff;
+      border-right: 1px solid white;
       -webkit-transition: all .2s ease .1s;
       -moz-transition: all .2s ease .1s;
       -o-transition: all .2s ease .1s;
@@ -97,7 +94,7 @@ p {
         background-color: #336557;
         text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2); }
       .nav li a.active {
-        color: #000;
+        color: black;
         background-color: #e4f2ee;
         text-shadow: 0 1px 0 rgba(255, 255, 255, 0.6); }
 
@@ -123,28 +120,31 @@ p {
   border-bottom-left-radius: 5px; }
 
 #a_contact {
-  border-right: 4px solid #fff; }
+  border-right: 4px solid white; }
 
 #a_donate {
-  background-color: #B05B2C;
+  background-color: #b05b2c;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
   border-right: 0;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px; }
-
-#a_donate:hover {
-  background-color: #CF875E;
-  color: #000;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2); }
+  #a_donate:hover {
+    background-color: #cf875e;
+    color: black;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2); }
 
 #a_join {
   background-color: #0079c1;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
-  border-left: 4px solid #fff; }
+  border-left: 4px solid white; }
+  #a_join:hover {
+    background-color: #b0cbea;
+    color: black;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2); }
 
-#a_join:hover, #a_join.active {
+#a_join.active {
   background-color: #b0cbea;
-  color: #000;
+  color: black;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2); }
 
 #sidebar-a {
@@ -155,7 +155,7 @@ p {
   line-height: 23px;
   width: 220px;
   font-size: 15px;
-  color: #000;
+  color: black;
   color: rgba(0, 0, 0, 0.7); }
   #sidebar-a .home {
     margin-top: 50px;
@@ -169,6 +169,28 @@ p {
     line-height: 16px; }
   #sidebar-a .firma-news {
     padding-left: 105px; }
+
+#sidebar-a.about {
+  padding: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 15px;
+  width: 205px; }
+
+#sidebar-a.about.contact {
+  margin-bottom: 20px; }
+
+#sidebar-a.join {
+  color: #4c4c4c;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  box-shadow: 0 5px 10px #dddddd; }
+
+#sidebar-a.join p.first {
+  margin-top: 5px; }
 
 blockquote {
   font-size: 15px;
@@ -191,28 +213,6 @@ blockquote {
     top: -20px;
     color: #7a7a7a; }
 
-#sidebar-a.about {
-  padding: 20px;
-  padding-left: 30px;
-  padding-right: 30px;
-  margin-top: 15px;
-  width: 205px; }
-
-#sidebar-a.about.contact {
-  margin-bottom: 20px; }
-
-#sidebar-a.join {
-  color: #4c4c4c;
-  border-style: solid;
-  border-width: 2px;
-  border-radius: 5px;
-  margin-bottom: 20px;
-  margin-top: 40px;
-  box-shadow: 0 5px 10px #ddd; }
-
-#sidebar-a.join p.first {
-  margin-top: 5px; }
-
 .pay_button {
   padding-top: 5px;
   padding-bottom: 10px; }
@@ -225,7 +225,7 @@ blockquote {
   width: 200px;
   line-height: 23px;
   font-size: 15px;
-  color: #000;
+  color: black;
   color: rgba(0, 0, 0, 0.7); }
 
 #content {
@@ -317,6 +317,9 @@ blockquote {
 .shadowed {
   box-shadow: 0 5px 10px #ddd; }
 
+.radiused {
+  border-radius: 5px; }
+
 .steer1 {
   float: left;
   width: 480px;
@@ -335,16 +338,15 @@ blockquote {
   padding: 20px;
   padding-left: 20px;
   background-color: #e4f2ee;
-  color: #000;
+  color: black;
   color: rgba(0, 0, 0, 0.8);
   border-radius: 5px;
   box-shadow: 0 5px 10px #ddd; }
-
-.tile p::first-letter {
-  font-size: 25px; }
+  .tile p::first-letter {
+    font-size: 25px; }
 
 .white {
-  background-color: #fff; }
+  background-color: white; }
 
 #ul_news_links {
   width: 500px;
