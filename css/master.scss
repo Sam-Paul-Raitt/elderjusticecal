@@ -307,11 +307,6 @@ blockquote{
 	-moz-transition:all .1s ease .1s;
 	-o-transition:all .1s ease .1s;
 	transition:all .1s ease .1s;
-	&:hover{
-		border:rgba(0,63,45,0.8);
-		border-style:solid;
-		border-width:1px;
-	}
 }
 
 

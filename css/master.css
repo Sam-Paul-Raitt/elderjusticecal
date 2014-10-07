@@ -268,10 +268,6 @@ blockquote {
   -moz-transition: all .1s ease .1s;
   -o-transition: all .1s ease .1s;
   transition: all .1s ease .1s; }
-  #img-blueprint:hover {
-    border: rgba(0, 63, 45, 0.8);
-    border-style: solid;
-    border-width: 1px; }
 
 #content.content_steering {
   margin-left: 0;
