@@ -2,17 +2,18 @@
 <html lang="en">
 <head>
 	<title>Join CEJC - California Elder Justice Coalition (CEJC)</title>
-	<?php require_once 'include/head.php' ?>
-	<script>window.onload=function() {document.getElementById("a_join").className="active";}</script>	
+	<meta charset="utf-8">
+	<meta name="description" content="The California Elder Justice Coalition (CEJC) is a multidisciplinary membership organization providing a voice from the field for elder justice policy.">
+	<meta name="author" content="Fernando Quinones Fernandez">
+	<link rel="stylesheet" href="css/master.css">
+	<link rel="shortcut icon" href="images/general/favicon.png" >
+	<script src="js/vendor/jquery-1.11.1.min.js"></script>
+	<script>window.onload=function() {document.getElementById("a_join").className="active";}</script>
 </head>
 <body>
 	<div id="page-container">
-		<div id="header">
-			<?php include 'include/banner.php' ?>
-		</div>
-		<div id="main-nav">
-			<?php include 'include/main-nav.php' ?>
-		</div>
+		<div id="header"></div>
+		<div id="main-nav"></div>
 		<div id="sidebar-a" class="join">
 		<p class="first">Organizational Member - $150</p>
 		<form class="pay_button" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -53,9 +54,9 @@
 			<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 			<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 		</form>
-			<p>If you prefer to complete and send in a hard copy application, <a href="cms/pdf/CEJC_brochure_2014.pdf" target="_blank">click here to download</a>.</p>
-		
-		</div> <!-- Sidebar ends--------------->
+			<p>If you prefer to complete and send in a hard copy application, <a href="docs/CEJC_brochure_2014.pdf" target="_blank">click here to download</a>.</p>
+
+		</div> <!-- Sidebar ends -->
 		<div id="content">
 			<h2>Join CEJC</h2>
   		<p>CEJC is the only advocacy organization in California dedicated to multidisciplinary problem-solving and EJ policy development. CEJC was formed to harness the enormous expertise, talent, and passion that exists in California to assist policy makers formulate in-depth public policy that empowers and protects older Californians and ensures justice and accountability.</p>
@@ -70,8 +71,8 @@
 			</ul>
 		</div>
 		<div id="footer">
-			<?php include 'include/footer.php' ?>
 		</div>
 	</div>
+	<script src="js/sharedels.js"></script>
 </body>
 </html>
